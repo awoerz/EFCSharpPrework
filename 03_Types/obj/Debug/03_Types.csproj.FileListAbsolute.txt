@@ -1,0 +1,14 @@
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.exe.config
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.csprojAssemblyReference.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.csproj.CoreCompileInputs.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.exe.config
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\bin\Debug\03_Types.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.csproj.CoreCompileInputs.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\03_Types\obj\Debug\03_Types.pdb

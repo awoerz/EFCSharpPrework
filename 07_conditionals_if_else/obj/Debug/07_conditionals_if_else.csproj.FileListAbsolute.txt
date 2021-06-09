@@ -1,0 +1,13 @@
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.exe.config
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.csproj.CoreCompileInputs.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.exe.config
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\bin\Debug\07_conditionals_if_else.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.csproj.CoreCompileInputs.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\07_conditionals_if_else\obj\Debug\07_conditionals_if_else.pdb

@@ -1,0 +1,14 @@
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe.config
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.AssemblyReference.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.CoreCompileInputs.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe.config
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\bin\Debug\06_booleans.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.csproj.CoreCompileInputs.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\06_booleans\obj\Debug\06_booleans.pdb

@@ -1,0 +1,14 @@
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.csproj.CoreCompileInputs.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe.config
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe.config
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\bin\Debug\04_Operators.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.csproj.CoreCompileInputs.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\04_Operators\obj\Debug\04_Operators.pdb

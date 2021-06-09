@@ -1,0 +1,13 @@
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.exe.config
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.pdb
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.exe
+C:\Users\adami\Desktop\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.exe.config
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\bin\Debug\02_variables.pdb
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.csproj.AssemblyReference.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.exe
+C:\Users\adami\HiddenDesk\ElevenFifty\ElevenFiftyProjects\DotNetProjects\CSharpPreWork\02_variables\obj\Debug\02_variables.pdb
